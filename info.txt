@@ -1,1 +1,7 @@
+Start New Project: npm init
+
+Adding Express: npm i --save Express
+Adding Nodemon: npm i --save-dev nodemon
+Adding dotenv: npm install --save dotenv
+
 Running Nodemon: npm run dev_start

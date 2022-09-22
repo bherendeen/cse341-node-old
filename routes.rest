@@ -1,0 +1,30 @@
+// LOCALHOST ### 
+GET http://localhost:8080/contacts
+
+###
+
+GET http://localhost:8080/contacts/632a32d474be5f4eb6a11c73
+
+###
+
+GET http://localhost:8080/contacts/632a32d474be5f4eb6a11c74
+
+###
+
+GET http://localhost:8080/contacts/632a32d474be5f4eb6a11c75
+
+// PRODUCTION
+###
+GET https://bherendeen-cse341.onrender.com/contacts
+
+###
+
+GET https://bherendeen-cse341.onrender.com/contacts/632a32d474be5f4eb6a11c73
+
+###
+
+GET https://bherendeen-cse341.onrender.com/contacts/632a32d474be5f4eb6a11c74
+
+###
+
+GET https://bherendeen-cse341.onrender.com/contacts/632a32d474be5f4eb6a11c75

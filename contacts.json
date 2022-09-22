@@ -1,0 +1,23 @@
+{
+    "contacts1" : {
+        "firstName": "Tami",
+        "lastName": "Herendeen",
+        "email": "tami@email.com", 
+        "favoriteColor": "Green", 
+        "birthday": "03/01/1986"
+    },
+    "contacts2" : {
+        "firstName": "Brennan",
+        "lastName": "Huff",
+        "email": "Brennan@email.com", 
+        "favoriteColor": "Blue", 
+        "birthday": "02/01/1970"
+    },
+    "contacts3" : {
+        "firstName": "Dale",
+        "lastName": "Doback",
+        "email": "dale@email.com", 
+        "favoriteColor": "red", 
+        "birthday": "04/01/1968"
+    }
+}
